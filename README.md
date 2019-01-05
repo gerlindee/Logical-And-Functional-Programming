@@ -11,7 +11,7 @@
 | Seminar | Status |
 | ---- | ---- |
 | seminar 2 | done |
-| seminar 3 | not done |
+| seminar 3 | done |
 | seminar 4 | not done |
 | seminar 5 | not done |
 | seminar 6 | not done |
