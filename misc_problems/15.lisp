@@ -21,4 +21,9 @@
 
 ; using mapcar and a lamnda expression
 
-
+(defun square_list_2(list)
+    (cond
+        ((null list) nil)
+        
+        (T
+         (mapcar #'(lambda (a) (* a a)) list))))
